@@ -54,13 +54,13 @@ I’m interested in collaborating on projects involving:
 - **QA automation projects**
 - **Test framework development**
 - **Test data management strategies**
-- **CI/CD-friendly automated testing pipelines**
-- **Open-source projects where testing improves product reliability**
+- **CI/CD integration for automated testing**
+- **Open-source projects where quality engineering and testing practices improve system reliability**
 
 ---
 
 ## 📚 Currently Exploring
-- **Python-based test automation** (Playwright, Selenium)
+- **Test automation development using Python and Java** (Playwright, Selenium)
 - **Automation architecture and design patterns**
 - **Scalable automated testing strategies**
 - **CI/CD integration for automated testing pipelines**
@@ -70,6 +70,7 @@ I’m interested in collaborating on projects involving:
 ## 📈 Continuous Learning
 My current learning focus includes:
 
+- **AI development for intelligent automation and workflow optimization**
 - Modern **automation frameworks and tools**
 - **Automation design patterns and maintainable test architecture**
 - **ISTQB-aligned testing principles applied to real-world systems**
