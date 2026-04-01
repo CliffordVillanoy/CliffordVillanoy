@@ -60,7 +60,7 @@ I’m interested in collaborating on projects involving:
 ---
 
 ## 📚 Currently Exploring
-- **Test automation development using Python and Java** (Playwright, Selenium)
+- **Test automation development using Python, Java and Typescript** (Playwright, Cypress and Selenium)
 - **Automation architecture and design patterns**
 - **Scalable automated testing strategies**
 - **CI/CD integration for automated testing pipelines**
@@ -72,7 +72,7 @@ My current learning focus includes:
 
 - **AI development for intelligent automation and workflow optimization**
 - Modern **automation frameworks and tools**
-- **Automation design patterns and maintainable test architecture**
+- **Automation design patterns, maintainable and scalable test architecture**
 - **ISTQB-aligned testing principles applied to real-world systems**
 - Improving **automation reliability and execution speed**
 
