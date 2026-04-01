@@ -51,16 +51,15 @@ My approach to validating system behavior focuses on ensuring that real user flo
 ## 🤝 Open to Collaboration
 I’m interested in collaborating on projects involving:
 
-- **QA automation projects**
+- **Test automation projects**
 - **Test framework development**
-- **Test data management strategies**
 - **CI/CD integration for automated testing**
 - **Open-source projects where quality engineering and testing practices improve system reliability**
 
 ---
 
 ## 📚 Currently Exploring
-- **Test automation development using Python, Java and Typescript** (Playwright, Cypress and Selenium)
+- **Test automation development using Python, Java and TypeScript** (Playwright, Cypress and Selenium)
 - **Automation architecture and design patterns**
 - **Scalable automated testing strategies**
 - **CI/CD integration for automated testing pipelines**
