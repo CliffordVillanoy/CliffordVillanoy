@@ -47,8 +47,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    Ensure new changes do not affect previously working features.
 
 8. **Sanity Testing**
-   
-   Perform a focused validation of critical functionalities after fixes or minor changes to confirm that core features are working as expected before proceeding with further testing.
+   Conduct a targeted verification of key functionalities to quickly determine if the recent changes or fixes are stable enough for deeper testing.
 
 ---
 
