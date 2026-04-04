@@ -46,6 +46,9 @@ My approach to validating system behavior focuses on ensuring that real user flo
 7. **Regression Validation**  
    Ensure new changes do not affect previously working features.
 
+8. **Sanity Testing**
+   Perform a focused validation of critical functionalities after fixes or minor changes to confirm that core features are working as expected before proceeding with further testing.
+
 ---
 
 ## 🤝 Open to Collaboration
