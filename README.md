@@ -7,7 +7,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 ---
 
 ## 🎯 Current Focus
-- Developing **test automation for web applications**
+- Developing **end-to-end test automation for web applications**
 - Designing **risk-based test cases aligned with user stories and acceptance criteria**
 - Validating **end-to-end system workflows across UI, API, and backend services**
 - Strengthening **automation skills using modern testing frameworks and tools**
