@@ -72,6 +72,7 @@ I’m interested in collaborating on projects involving:
 ## 📈 Continuous Learning
 My current learning focus includes:
 
+- Building **testing frameworks** from scratch
 - **AI development for intelligent automation and workflow optimization**
 - Modern **automation frameworks and tools**
 - **Automation design patterns, maintainable and scalable test architecture**
