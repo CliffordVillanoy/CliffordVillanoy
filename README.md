@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hello! I'm **Cliff**, an ** ISTQB Certified Software Quality Assurance Engineer** passionate about building reliable software through structured testing, system analysis, and continuous improvement.
+Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer** passionate about building reliable software through structured testing, system analysis, and continuous improvement.
 
 I focus on ensuring software quality through **well-designed test strategies, end-to-end validation of system workflows, and automation-driven testing approaches.** I enjoy analyzing how systems behave across the full stack and verifying that features work reliably from the user interface down to backend integrations.
 
