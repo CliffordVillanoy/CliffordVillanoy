@@ -40,7 +40,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    - API requests and responses
    - Backend processing and database updates
 
-6. **Defect Identification & Reporting 
+6. **Defect Identification & Reporting**  
    Document issues clearly with reproducible steps and system impact analysis.
 
 7. **Regression Validation**  
