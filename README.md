@@ -74,7 +74,7 @@ My current learning focus includes:
 
 - Building **testing frameworks** from scratch
 - **AI development for intelligent automation and workflow optimization**
-- Modern **automation frameworks and tools**
+- Modern **automation frameworks and tools** mastery
 - **Automation design patterns, maintainable and scalable test architecture**
 - **ISTQB-aligned testing principles applied to real-world systems**
 - Improving **automation reliability and execution speed**
