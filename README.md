@@ -8,7 +8,6 @@ I focus on ensuring software quality through **well-designed test strategies, en
 
 # 📊 Merge Status:
 ![](https://streak-stats.demolab.com/?user=CliffordVillanoy&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=CliffordVillanoy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ## 🎯 Current Focus (Ongoing):   
