@@ -51,7 +51,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
 
 ---
 
-## 🤝 Open to Collaboration
+## 🤝 Open to Collaboration:
 I’m interested in collaborating on projects involving:
 
 - **Test automation projects**
@@ -61,7 +61,7 @@ I’m interested in collaborating on projects involving:
 
 ---
 
-## 📚 Currently Exploring
+## 📚 Currently Exploring Areas:
 - **Test automation development using Python, Java and TypeScript** (Playwright, Cypress and Selenium)
 - **Automation architecture and design patterns**
 - **Scalable automated testing strategies**
