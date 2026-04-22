@@ -6,7 +6,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 
 ---
 
-# 📊 Merge Status:
+# 📊 Contribution Status:
 ![](https://streak-stats.demolab.com/?user=CliffordVillanoy&theme=dark&hide_border=false)<br/>
 
 ---
