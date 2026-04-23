@@ -19,7 +19,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 
 ---
 
-## 🔄 End-to-End Testing Workflow
+## 🔄 End-to-End Testing Workflow:
 
 My approach to validating system behavior focuses on ensuring that real user flows function correctly across integrated components:
 
