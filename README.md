@@ -6,10 +6,6 @@ I focus on ensuring software quality through **well-designed test strategies, en
 
 ---
 
-# 📊 Contribution Status:
-![](https://streak-stats.demolab.com/?user=CliffordVillanoy&theme=dark&hide_border=false)<br/>
-
----
 ## 🎯 Current Focus (Ongoing):   
 - Developing **end-to-end test automation for web applications**
 - Designing **risk-based test cases aligned with user stories and acceptance criteria**
