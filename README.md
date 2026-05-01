@@ -7,7 +7,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 ---
 
 ## 🎯 Current Focus (Ongoing):   
-- Currently developing **AI Agent** that aims to assist SQA Engineers in testing
+- Currently developing **AI Agents** that aims to assist SQA Engineers in testing
 - Developing **end-to-end test automation for web applications**
 - Designing **risk-based test cases aligned with user stories and acceptance criteria**
 - Validating **end-to-end system workflows across UI, API, and backend services**
