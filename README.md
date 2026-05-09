@@ -58,7 +58,7 @@ I’m interested in collaborating on projects involving:
 - **Test automation projects**
 - **Test framework development**
 - **CI/CD integration for automated testing**
-- **AI related open-source projects where quality engineering and testing practices improve system reliability**
+- **AI related open-source projects**
 
 ---
 
