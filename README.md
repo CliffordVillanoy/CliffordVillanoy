@@ -66,7 +66,7 @@ I’m interested in collaborating on projects involving:
 - **Test automation development using Python, Java and TypeScript** (Playwright, Cypress and Selenium)
 - **Automation architecture and design patterns**
 - **Scalable automated testing strategies**
-- **CI/CD integration for automated testing pipelines**
+- **CI/CD integration for automated testing pipelines (Gitlab and GitHub Actions)**
 - **AI/ML Development**
 
 ---
