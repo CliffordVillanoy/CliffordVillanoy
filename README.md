@@ -79,7 +79,7 @@ My current learning focus includes:
 - Modern **automation frameworks and tools** mastery
 - **Automation design patterns, maintainable and scalable test architecture**
 - **ISTQB-aligned testing principles applied to real-world systems**
-- Improving **test automation script maintainable, scaleable and reliable**
+- Improving **test automation script maintainable, scalable and reliable**
 
 ---
 
