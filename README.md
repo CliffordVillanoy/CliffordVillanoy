@@ -72,7 +72,7 @@ I’m interested in collaborating on projects involving:
 ---
 
 ## 📈 Continuous Learning
-My current learning focus includes:
+My current learning focus development:
 
 - Building **testing frameworks** from scratch
 - **AI/ML development for intelligent automation and workflow optimization**
