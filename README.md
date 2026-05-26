@@ -30,7 +30,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    Create structured test cases covering:
    - Positive Scenario
    - Negative scenarios
-   - Edge cases
+   - Edge case scenarios
 
 4. **Test Data Preparation**  
    Prepare realistic and controlled test data to simulate production-like scenarios.
