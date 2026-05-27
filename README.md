@@ -75,7 +75,7 @@ I’m interested in collaborating on projects involving:
 My current learning focus development:
 
 - Building **testing frameworks** from scratch
-- **AI/ML development for test automation use cases**
+- **AI/ML development for development and test automation use cases**
 - Modern **automation frameworks and tools** mastery
 - **Automation design patterns, maintainable and scalable test architecture**
 - **ISTQB-aligned testing principles applied to real-world systems**
