@@ -42,7 +42,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    - Backend processing and database updates
 
 6. **Defect Identification & Reporting**  
-   Document issues clearly with reproducible steps and system impact analysis.
+   Document issues clearly with reproducible steps and system impact and risk analysis.
 
 7. **Regression Validation**  
    Ensure new changes do not affect previously working features.
