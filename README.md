@@ -18,7 +18,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 
 ## 🔄 End-to-End Testing Workflow:
 
-My approach to validating system behavior focuses on ensuring that real user flows function correctly across integrated components:
+My approach to validating system behavior focuses on ensuring that real user flows function correctly across integrated components and services:
 
 1. **Requirement & Acceptance Criteria Analysis**  
    Understand user stories, business rules, and expected outcomes.
