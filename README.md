@@ -10,7 +10,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 - Currently building **AI Agents** and **AI Skills** using LLMs that aims to assist teams in every testing process and activities.
 - Developing **E2E test automation for web and mobile applications**
 - Designing **risk-based test cases aligned with user stories and acceptance criteria**
-- Validating **end-to-end system workflows across UI, API, and backend services**
+- Validating **end-to-end system workflows across frontend, API, and backend services**
 - Strengthening **automation skills using modern testing frameworks and tools**
 - Improving **test coverage, reliability, and maintainability of test suites**
 
