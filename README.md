@@ -78,7 +78,7 @@ My current learning focus development:
 - **AI/ML development for development and test automation use cases**
 - Modern **automation frameworks and tools** mastery
 - **Automation design patterns, maintainable and scalable test architecture**
-- **ISTQB-aligned testing principles applied to real-world systems**
+- **ISTQB-aligned testing principles applied to real-world enterprise level systems**
 - Improving **test automation script maintainable, scalable and reliable**
 
 ---
