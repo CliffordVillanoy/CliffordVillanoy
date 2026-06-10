@@ -12,7 +12,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 - Designing **risk-based test cases aligned with user stories and acceptance criteria**
 - Validating **end-to-end system workflows across frontend, API, and backend services**
 - Strengthening **automation skills using modern testing frameworks and tools**
-- Improving **test coverage, reliability, and maintainability of test suites**
+- Improving **test coverage, reliability, and maintainability of test scripts and suites**
 
 ---
 
