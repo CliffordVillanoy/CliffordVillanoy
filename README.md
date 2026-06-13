@@ -28,7 +28,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
 
 3. **Test Case Development**  
    Create structured test cases covering:
-   - Positive Scenario
+   - Positive Scenario (Happy Paths)
    - Negative scenarios
    - Edge case scenarios
 
