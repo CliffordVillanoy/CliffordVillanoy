@@ -36,7 +36,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    Prepare realistic and controlled test data to simulate production-like scenarios.
 
 5. **Execution & Validation**  
-   Validate the complete workflow across:
+   Validate the complete E2E workflow across:
    - Frontend UI interactions
    - API requests and responses
    - Backend processing and database updates
