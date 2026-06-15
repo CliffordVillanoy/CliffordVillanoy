@@ -24,7 +24,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    Understand user stories, business rules, and expected outcomes.
 
 2. **Test Scenario Design**  
-   Identify complete user journeys, business requirements and critical system paths.
+   Identify complete user journeys, business requirements and critical system flows.
 
 3. **Test Case Development**  
    Create structured test cases covering:
