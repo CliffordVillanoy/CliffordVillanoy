@@ -6,7 +6,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 
 ---
 
-## 🎯 Current Focus (Ongoing):   
+## 🎯 Current Focus:   
 - Currently building **AI Agents** and **AI Skills** using LLMs that aims to assist teams in every testing process and activities.
 - Developing **E2E test automation for web and mobile applications**
 - Designing **risk-based test cases aligned with user stories and acceptance criteria**
