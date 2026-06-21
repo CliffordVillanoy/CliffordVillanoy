@@ -58,7 +58,7 @@ I’m interested in collaborating on projects involving:
 - **Test automation projects (E2E) **
 - **Test framework development**
 - **CI/CD integration for automated testing**
-- **AI related open-source projects**
+- **AI/ML related open-source projects**
 
 ---
 
