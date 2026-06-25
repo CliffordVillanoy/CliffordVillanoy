@@ -14,6 +14,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 - Validating **end-to-end system workflows across frontend, API, and backend services**
 - Strengthening **automation skills using modern testing frameworks and tools**
 - Improving **test coverage, reliability, and maintainability of test scripts and suites**
+- Building solutions for B2B and B2C teams
 
 ---
 
@@ -81,7 +82,7 @@ My current learning focus development:
 - Modern **automation frameworks and tools** mastery
 - **Automation design patterns, maintainable and scalable test architecture**
 - **ISTQB-aligned testing principles applied to real-world enterprise level systems**
-- Developin **test automation scripts that are maintainable, scalable and reliable**
+- Developing **test automation scripts that are maintainable, scalable and reliable**
 
 ---
 
