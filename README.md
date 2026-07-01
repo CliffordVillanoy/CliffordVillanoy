@@ -15,6 +15,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 - Strengthening **automation skills using modern testing frameworks and tools**
 - Improving **test coverage, reliability, and maintainability of test scripts and suites**
 - Building more enterprise level quality enterprise solutions for **B2B and B2C teams.**
+- Maintainint test scripts
 
 ---
 
