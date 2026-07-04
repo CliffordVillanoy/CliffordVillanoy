@@ -14,7 +14,7 @@ I focus on ensuring software quality through **well-designed test strategies, en
 - Validating **end-to-end system workflows across frontend, API, and backend services**
 - Strengthening **automation skills using modern testing frameworks and tools**
 - Improving **test coverage, reliability, and maintainability of test scripts and suites**
-- Building enterprise level quality enterprise solutions with complex workflow for **B2B and B2C teams.**
+- Building quality enterprise level solutions with complex workflow for **B2B and B2C teams.**
 
 ---
 
