@@ -31,7 +31,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
 3. **Test Case Development**  
    Create structured test cases covering:
    - Positive Scenario
-     - Happy Paths 
+     - Happy Paths
    - Negative scenarios
    - Edge case scenarios
 
@@ -67,7 +67,7 @@ I’m interested in collaborating on projects involving:
 
 ## 📚 Currently Exploring Areas:
 - **Test automation development using Python, Java and TypeScript** (Playwright, Cypress and Selenium)
-- **Automation architecture and design patterns**
+- **Automation architecture and modular design patterns**
 - **Scalable automated testing strategies**
 - **CI/CD integration for automated testing pipelines (Gitlab and GitHub Actions)**
 - **AI/ML Development (LLM, Orchestrator, Agents, MCP and AI Skill plugins)**
