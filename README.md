@@ -39,7 +39,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
 5. **Execution & Validation**  
    Validate the complete E2E workflow across:
    - Frontend UI interactions
-   - API requests and responses
+   - API requests, responses and status
    - Backend processing and database updates
 
 6. **Defect Identification & Reporting**  
