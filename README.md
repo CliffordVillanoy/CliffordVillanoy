@@ -11,7 +11,6 @@ Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer**
 - Validating **end-to-end system workflows across frontend, API, and backend services**
 - Strengthening **automation skills using modern testing frameworks and tools**
 - Improving **test coverage, reliability, and maintainability of test scripts and suites**
-- Developing AI Agents that aims to **accelerate testing activities.**
 - Building quality enterprise level solutions with complex workflow for cross-functional agile **B2B and B2C teams.**
 
 ---
