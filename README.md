@@ -170,3 +170,8 @@ My current learning focus development:
 ### 🧩 Productivity & Project Management
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+"A SQA Engineer who can build"
+
