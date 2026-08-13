@@ -32,7 +32,7 @@ My approach to validating system behavior focuses on ensuring that real user flo
    - Edge case scenarios
 
 4. **Test Data Preparation**  
-Prepare realistic and controlled test data to simulate production-like scenarios.
+   Prepare realistic and controlled test data to simulate production-like scenarios.
 
 5. **Execution & Validation**  
    Validate the complete E2E workflow across:
