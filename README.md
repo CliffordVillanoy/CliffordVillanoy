@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer** who builds cool stuff.
+Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer** who builds and automates cool stuff.
 
 ---
 
