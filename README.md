@@ -66,6 +66,7 @@ I’m interested in collaborating on projects involving:
 - **Automation architecture and modular design patterns**
 - **Scalable automated testing strategies**
 - **CI/CD integration for automated testing pipelines (Gitlab and GitHub Actions)**
+- **Cloud Platform** integration to CI/CD process
 - **AI/ML Development (LLM, Orchestrator, RAG, Agents, MCP and AI Skill plugins)**
 
 ---
