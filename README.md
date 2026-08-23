@@ -174,5 +174,5 @@ My current learning focus development:
 
 ---
 
-"A SQA Engineer who can build"
+"An SQA Engineer who can build"
 
