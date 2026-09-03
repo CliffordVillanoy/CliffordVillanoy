@@ -15,7 +15,7 @@ Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer**
 
 ---
 
-## 🔄 End-to-End Testing Workflow:
+## 🔄 Testing Workflow:
 
 My approach to validating system behavior focuses on ensuring that real user flows function correctly across integrated components and services:
 
