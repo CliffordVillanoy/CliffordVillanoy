@@ -6,11 +6,11 @@ Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer**
 
 ## 🎯 Current Focus:   
 - Currently building **AI Agents** and **AI Skills** using open-sourced LLMs that aims to assist teams in every testing and development process.
-- Developing **E2E modular data-driven test automation scripts for API, web and mobile applications**
-- Designing **risk-based test cases aligned with user stories, requirements and acceptance criteria**
-- Validating **end-to-end system workflows across frontend, API, and backend services**
-- Strengthening **automation skills using modern testing tools and frameworks**
-- Improving **test coverage, reliability, and maintainability of test scripts and suites**
+- Developing **E2E modular data-driven test automation scripts for API, web and mobile applications**.
+- Designing **risk-based test cases aligned with user stories, requirements and acceptance criteria**.
+- Validating **end-to-end system workflows across frontend, API, and backend services**.
+- Strengthening **automation skills using modern testing tools and frameworks**.
+- Improving **test coverage, reliability, and maintainability of test scripts and suites**.
 - Building quality enterprise level solutions with complex workflow for cross-functional agile **B2B and B2C teams.**
 
 ---
