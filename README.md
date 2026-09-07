@@ -74,12 +74,12 @@ I’m interested in collaborating on projects involving:
 ## 📈 Continuous Learning
 My current learning focus development:
 
-- Building **testing frameworks** from scratch
-- **AI/ML development for development and test automation use cases**
-- Modern **automation frameworks and tools** and CI/CD mastery
-- **Automation design patterns, modular, maintainable and scalable test architecture**
-- **ISTQB-aligned testing principles applied to real-world enterprise level systems**
-- Developing **test automation scripts that are maintainable, scalable and reliable**
+- Building **testing frameworks** from scratch.
+- **AI/ML development for development and test automation use cases**.
+- Modern **automation frameworks and tools** and CI/CD mastery.
+- **Automation design patterns, modular, maintainable and scalable test architecture**.
+- **ISTQB-aligned testing principles applied to real-world enterprise level systems**.
+- Developing **test automation scripts that are maintainable, scalable and reliable**.
 
 ---
 
