@@ -174,5 +174,5 @@ My current learning focus development:
 
 ---
 
-"An SQA Engineer who can build and automate"
+"An SQA Engineer who can build cool stuff and automate testing processes"
 
