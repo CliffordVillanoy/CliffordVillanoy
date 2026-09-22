@@ -55,9 +55,9 @@ My approach to validating system behavior focuses on ensuring that real user flo
 I’m interested in collaborating on projects involving:
 
 - **Test automation projects (E2E)**
-- **Test framework development**
-- **CI/CD integration for automated testing**
-- **AI/ML related open-source projects**
+- **Test framework development.**
+- **CI/CD integration for automated testing.**
+- **AI/ML related open-source projects.**
 
 ---
 
