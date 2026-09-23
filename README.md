@@ -19,7 +19,7 @@ Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer**
 
 My approach to validating system behavior focuses on ensuring that real user flows function correctly across integrated components and services:
 
-1. **Requirement & Acceptance Criteria Analysis** .
+1. **Requirement & Acceptance Criteria Analysis**.
    Understand user stories, business rules, and expected outcomes.
 
 2. **Test Scenario Design**  
