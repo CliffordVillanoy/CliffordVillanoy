@@ -80,6 +80,7 @@ My current learning focus development:
 - **Automation design patterns, modular, maintainable and scalable test architecture**.
 - **ISTQB-aligned testing principles applied to real-world enterprise level systems**.
 - Developing **test automation scripts that are maintainable, scalable and reliable**.
+- Cloud Computing concepts and best use cases.
 
 ---
 
