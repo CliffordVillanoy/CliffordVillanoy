@@ -1,4 +1,4 @@
-# 👨‍💻 About Me
+# About Me
 
 Hello! I'm **Cliff**, an **ISTQB Certified Software Quality Assurance Engineer** who automate tests and builds interesting projects and tests.
 
